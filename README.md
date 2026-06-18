@@ -83,29 +83,6 @@ Instead of browsing through menus and pages, users travel through a virtual gala
 
 ---
 
-## 📸 Screenshots
-
-Add screenshots or GIFs here.
-
-### Galaxy View
-
-```text
-Insert Screenshot Here
-```
-
-### Planet Details Panel
-
-```text
-Insert Screenshot Here
-```
-
-### User Dashboard
-
-```text
-Insert Screenshot Here
-```
-
----
 
 ##  Prerequisites
 
